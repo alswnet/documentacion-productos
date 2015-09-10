@@ -1,0 +1,31 @@
+Codigos NEC para control remoto infrarrojo
+URL: http://tienda.alsw.net/producto/control-remoto-ir/
+Codigo de producto:CHI-00007
+
+Las teclas estan ordenadas por columnas de izquierda a derecha y por filas de arriba hacia abajo
+(orden natural de escritura)
+
+Todos los codigos estan en hexadecimal (en Arduino IDE anteponer 0x)
+
+Tecla        Codigo
+CH-          FFA25D
+CH           FF629D
+CH+          FFE21D
+PREV         FF22DD
+NEXT         FF02FD
+PLAY/PAUSE   FFC23D
+VOL-         FFE01F
+VOL+         FFA857
+EQ           FF906F
+0            FF6897
+100+         FF9867
+200+         FFB04F
+1            FF30CF
+2            FF18E7
+3            FF7A85
+4            FF10EF
+5            FF38C7
+6            FF5AA5
+7            FF42BD
+8            FF4AB5
+9            FF52AD
